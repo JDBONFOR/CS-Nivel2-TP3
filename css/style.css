@@ -1,0 +1,22 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+#input-days {
+  width: 300px;
+  height: 40px;
+  padding-left: 10px;
+}
+
+.btn {
+  margin-left: 25px;
+}
+
+#listSection {
+  margin: 20px 0;
+}
+
+#listSection li {
+  list-style-type: none;
+}
